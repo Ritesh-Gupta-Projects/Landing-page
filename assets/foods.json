@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "1",
+    "name": "Dosa",
+    "price": 5,
+    "images": [
+      "/assets/menu-images/dosa-1.jpg",
+      "/assets/menu-images/dosa-2.jpg"
+    ],
+    "description": "A thin, crispy crepe made from fermented rice and lentils, filled with your choice of flavorful stuffing. Served hot with tangy chutneys and sambar, perfect for a savory South Indian delight"
+  },
+  {
+    "_id": "2",
+    "name": "Medu Vada",
+    "price": 3,
+    "images": [
+      "/assets/menu-images/meduvada-1.jpg",
+      "/assets/menu-images/meduvada-2.jpg"
+    ],
+    "description": "A crispy, golden doughnut-shaped fritter made from spiced lentil batter, deep-fried to perfection. Served hot with chutneys and sambar, perfect for a crunchy, savory treat."
+  },
+  {
+    "_id": "3",
+    "name": "Corn Pizza",
+    "price": 15,
+    "images": [
+      "/assets/menu-images/cornpizza-1.jpg",
+      "/assets/menu-images/cornpizza-2.jpg"
+    ],
+    "description": "A moist and decadent chocolate cake layered with rich chocolate ganache. Perfect for chocolate lovers!"
+  },
+  {
+    "_id": "4",
+    "name": "Margherita Pizza",
+    "price": 12,
+    "images": [
+      "/assets/menu-images/pizza-1.jpg",
+      "/assets/menu-images/pizza-2.jpg"
+    ],
+    "description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves. Simple yet delicious!"
+  },
+  {
+    "_id": "5",
+    "name": "Tandoori Soya Chaap",
+    "price": 9,
+    "images": [
+      "/assets/menu-images/tandoori-soya-chaap-1.jpg",
+      "/assets/menu-images/tandoori-soya-chaap-2.jpg"
+    ],
+    "description": "Tender soya chunks marinated in flavorful spices and grilled to smoky perfection in a tandoor. Served with tangy chutneys, perfect for a hearty and protein-packed treat."
+  },
+  {
+    "_id": "6",
+    "name": "Malai Soya Chaap",
+    "price": 10,
+    "images": [
+      "/assets/menu-images/malai-soya-chaap-1.jpg",
+      "/assets/menu-images/malai-soya-chaap-2.jpg"
+    ],
+    "description": "Creamy soya chaap marinated in rich, mildly spiced cream sauce, grilled to a melt-in-your-mouth texture. Served with chutneys for a luscious, velvety bite."
+  },
+
+  {
+    "_id": "7",
+    "name": "Pasta",
+    "price": 8,
+    "images": [
+      "/assets/menu-images/pasta-1.jpg",
+      "/assets/menu-images/pasta-2.jpg"
+    ],
+    "description": "Deliciously creamy or tangy pasta cooked to perfection with fresh herbs, vegetables, and your choice of sauce. Served hot, perfect for a comforting and flavorful meal."
+  },
+  {
+    "_id": "8",
+    "name": "Noodles",
+    "price": 9,
+    "images": [
+      "/assets/menu-images/noodles-1.jpg",
+      "/assets/menu-images/noodles-2.jpg"
+    ],
+    "description": "Stir-fried noodles tossed with fresh vegetables, aromatic spices, and your choice of protein. Served hot and bursting with flavor, perfect for a quick and tasty meal."
+  }
+]
